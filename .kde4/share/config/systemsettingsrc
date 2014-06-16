@@ -1,0 +1,19 @@
+[Colors]
+CurrentPalette=Forty Colors
+
+[DownloadDialog Settings]
+Height 768=400
+Width 1024=700
+
+[KPropertiesDialog]
+Height 768=356
+Width 1024=413
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAqoAAAHiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=5
+History=guake
