@@ -1,0 +1,29 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10cae5d268000140217671400000005010000
+clientId2=10cae5d268000140217672100000005010008
+clientId3=10cae5d268000140217672300000005010013
+count=3
+discardCommand1[$e]=rm,$HOME/.kde4/share/config/session/kwin_10cae5d268000140217671400000005010000_1402176888_356264
+discardCommand2[$e]=
+discardCommand3[$e]=
+program1=kwin
+program2=pulseaudio
+program3=/usr/bin/akonadi_agent_launcher
+restartCommand1=kwin,-session,10cae5d268000140217671400000005010000_1402176888_356264
+restartCommand2=
+restartCommand3=/usr/bin/akonadi_agent_launcher,-session,10cae5d268000140217672300000005010013_1402176888_345083
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=arch
+userId2=arch
+userId3=arch
+wasWm1=true
+wasWm2=false
+wasWm3=false

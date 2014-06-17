@@ -1,0 +1,21 @@
+[BrowseView]
+ShowApplicationVersions=true
+
+[FilterMenu]
+FilterNative=false
+FilterNewest=false
+
+[MainUi]
+Height 768=549
+Width 1024=799
+
+[TransactionDialog]
+detailsHeight=378
+
+[UpdateView]
+ShowSizes=true
+ShowVersions=true
+
+[requirementsDialog]
+Height 768=305
+Width 1024=450
