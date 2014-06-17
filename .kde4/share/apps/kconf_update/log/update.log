@@ -458,3 +458,85 @@
 2014-06-11T18:12:30 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
 2014-06-11T18:12:30 Checking update-file '/usr/share/apps/kconf_update/ksmserver_shortcuts.upd' for new updates
 2014-06-11T18:12:30 Checking update-file '/usr/share/apps/kconf_update/kwin_remove_effects.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/notifications-to-orgkdenotifications.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/oxygen.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwallet-4.13.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_update_tabbox_qml_settings.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2014-06-17T17:31:43 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2014-06-17T17:31:43 plasma-add-shortcut-to-menu.upd:2:'Script=plasma-add-shortcut-to-menu-update': Script 'plasma-add-shortcut-to-menu-update' not found
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_translate_activity_rule.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_translate_confrequest_rule.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/mailtransports.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_remove_effects.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_update_411.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kscreenlocker_locksession-shortcut.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2014-06-17T17:31:43 kioslave.upd: Found new update 'kde2.2/r1'
+2014-06-17T17:31:43 kioslave.upd: Skipping update 'kde2.2/r1'
+2014-06-17T17:31:43 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/ksmserver_shortcuts.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_update_tabbox_settings.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/konsole_remove_background_mode.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/konversation.upd' for new updates
+2014-06-17T17:31:43 konversation.upd: Found new update '1.1-rememberline'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '1.1-markerlines'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.20-customfonts'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.20-quickbuttons'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-notifylists'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-appearance'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-browser'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-flags'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-highlightcolors'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-osdcolors'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-sortorder'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-colors'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-generaloptions'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-themes'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-notifylist'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-dcc'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-colors'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-hilightlist'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-notificationmessages'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-ledcolors'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-cleanup-kmditaskbar'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 konversation.upd: Found new update '0.19-channelsplitter'
+2014-06-17T17:31:43 konversation.upd: File 'konversationrc' does not exist or empty, skipping
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_remove_delay_focus.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/devicepreference.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/newmailnotifier.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/konsole.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_update_410.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/kwin_update_49.upd' for new updates
+2014-06-17T17:31:43 Checking update-file '/usr/share/apps/kconf_update/krdb_libpathwipe.upd' for new updates
