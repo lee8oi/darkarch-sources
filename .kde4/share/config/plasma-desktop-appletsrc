@@ -26,6 +26,7 @@ kde4-Help=
 kde4-akonaditray=
 kde4-apper=
 kde4-dolphin=
+kde4-gwenview=2014-06-18
 kde4-kfind=
 kde4-kftpgrabber=2014-06-17
 kde4-kinfocenter=
@@ -35,9 +36,11 @@ kde4-knetattach=
 kde4-konqbrowser=
 kde4-konsole=
 kde4-konversation=2014-06-17
+kde4-kopete=2014-06-18
 kde4-krandrtray=
 kde4-ksysguard=
 kde4-kwrite=
+kde4-okular=2014-06-18
 kde4-systemsettings=
 linguist-qt4=
 liteide=
@@ -47,6 +50,7 @@ qv4l2=
 transmission-qt=
 uxterm=
 vlc=
+wicd=2014-06-18
 xterm=
 zenmap=
 zenmap-root=
@@ -80,19 +84,6 @@ Url=file:///usr/share/applications/firefox.desktop
 [Containments][1][Applets][11][LayoutInformation]
 Order=1
 
-[Containments][1][Applets][13]
-geometry=776,2,25,25
-immutability=1
-plugin=wicd-kde
-zvalue=0
-
-[Containments][1][Applets][13][LayoutInformation]
-Order=5
-
-[Containments][1][Applets][13][PopupApplet]
-DialogHeight=182
-DialogWidth=351
-
 [Containments][1][Applets][2]
 geometry=0,2,25,25
 immutability=1
@@ -124,7 +115,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,681,25
+geometry=91,2,654,25
 immutability=1
 plugin=tasks
 zvalue=1
@@ -137,7 +128,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=805,2,141,25
+geometry=749,2,197,25
 immutability=1
 plugin=systemtray
 zvalue=0
