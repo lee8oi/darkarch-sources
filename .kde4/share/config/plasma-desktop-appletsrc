@@ -152,7 +152,7 @@ plugin=org.kde.notifications
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][10][PopupApplet]
-DialogHeight=95
+DialogHeight=221
 DialogWidth=342
 
 [Containments][1][Applets][6][Configuration][Applets][8]
@@ -183,10 +183,10 @@ Order=7
 maximumSize=1024,27
 minimumSize=1024,27
 
-[Containments][16]
+[Containments][17]
 ActionPluginsSource=Global
 activity=Default
-activityId=fbf67b2c-b5c5-450d-b17a-ad0dd83fb4c9
+activityId=786e687d-ad63-412b-8b5f-82a521f0f98c
 desktop=-1
 formfactor=0
 geometry=0,0,1024,768
@@ -200,7 +200,7 @@ wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
 
-[Containments][16][Wallpaper][image]
+[Containments][17][Wallpaper][image]
 slideTimer=10
 slidepaths=
 userswallpapers=
