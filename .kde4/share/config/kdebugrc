@@ -40,6 +40,9 @@ InfoOutput=4
 [kaddressbookmigrator]
 InfoOutput=4
 
+[kate-filetree]
+InfoOutput=2
+
 [kbuildsycoca4]
 InfoOutput=2
 

@@ -26,21 +26,23 @@ kde4-Help=
 kde4-akonaditray=
 kde4-apper=
 kde4-dolphin=
-kde4-gwenview=2014-06-18
+kde4-gwenview=
+kde4-kate=2014-06-24
 kde4-kfind=
 kde4-kftpgrabber=2014-06-17
 kde4-kinfocenter=
 kde4-klipper=
 kde4-kmix=
 kde4-knetattach=
+kde4-kompare=2014-06-24
 kde4-konqbrowser=
 kde4-konsole=
-kde4-konversation=2014-06-17
-kde4-kopete=2014-06-18
+kde4-konversation=
+kde4-kopete=
 kde4-krandrtray=
 kde4-ksysguard=
 kde4-kwrite=
-kde4-okular=2014-06-18
+kde4-okular=
 kde4-systemsettings=
 linguist-qt4=
 liteide=
@@ -50,7 +52,7 @@ qv4l2=
 transmission-qt=
 uxterm=
 vlc=
-wicd=2014-06-18
+wicd=
 xterm=
 zenmap=
 zenmap-root=
@@ -60,7 +62,7 @@ activity=
 activityId=
 desktop=-1
 formfactor=2
-geometry=0,-33,1024,27
+geometry=0,-33,1600,27
 immutability=1
 lastDesktop=-1
 lastScreen=0
@@ -115,7 +117,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,654,25
+geometry=91,2,1230,25
 immutability=1
 plugin=tasks
 zvalue=1
@@ -128,7 +130,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=749,2,197,25
+geometry=1325,2,197,25
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -143,7 +145,7 @@ plugin=org.kde.notifications
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][10][PopupApplet]
-DialogHeight=221
+DialogHeight=209
 DialogWidth=342
 
 [Containments][1][Applets][6][Configuration][Applets][8]
@@ -159,20 +161,20 @@ zvalue=0
 SystemTray-Klipper-6=Ctrl+Alt+V
 
 [Containments][1][Applets][6][LayoutInformation]
-Order=6
+Order=5
 
 [Containments][1][Applets][7]
-geometry=950,2,50,25
+geometry=1526,2,50,25
 immutability=1
 plugin=digital-clock
 zvalue=0
 
 [Containments][1][Applets][7][LayoutInformation]
-Order=7
+Order=6
 
 [Containments][1][Configuration]
-maximumSize=1024,27
-minimumSize=1024,27
+maximumSize=1600,27
+minimumSize=1600,27
 
 [Containments][17]
 ActionPluginsSource=Global
@@ -180,7 +182,7 @@ activity=Default
 activityId=786e687d-ad63-412b-8b5f-82a521f0f98c
 desktop=-1
 formfactor=0
-geometry=0,0,1024,768
+geometry=0,0,1600,813
 immutability=1
 lastDesktop=-1
 lastScreen=0
