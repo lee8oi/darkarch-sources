@@ -7,7 +7,9 @@ FilterNewest=false
 
 [MainUi]
 Height 768=549
+Height 813=549
 Width 1024=799
+Width 1600=799
 
 [TransactionDialog]
 detailsHeight=378
@@ -18,4 +20,6 @@ ShowVersions=true
 
 [requirementsDialog]
 Height 768=305
+Height 813=305
 Width 1024=450
+Width 1600=450
