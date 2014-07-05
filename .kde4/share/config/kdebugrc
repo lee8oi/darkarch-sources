@@ -85,6 +85,9 @@ InfoOutput=2
 [knotify]
 InfoOutput=4
 
+[kopete]
+InfoOutput=4
+
 [krunner]
 InfoOutput=4
 

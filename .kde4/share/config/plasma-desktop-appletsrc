@@ -27,14 +27,14 @@ kde4-akonaditray=
 kde4-apper=
 kde4-dolphin=
 kde4-gwenview=
-kde4-kate=2014-06-24
+kde4-kate=
 kde4-kfind=
 kde4-kftpgrabber=2014-06-17
 kde4-kinfocenter=
 kde4-klipper=
 kde4-kmix=
 kde4-knetattach=
-kde4-kompare=2014-06-24
+kde4-kompare=
 kde4-konqbrowser=
 kde4-konsole=
 kde4-konversation=
@@ -117,7 +117,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,1258,25
+geometry=91,2,1209,25
 immutability=1
 plugin=tasks
 zvalue=1
@@ -130,7 +130,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=1353,2,169,25
+geometry=1304,2,218,25
 immutability=1
 plugin=systemtray
 zvalue=0

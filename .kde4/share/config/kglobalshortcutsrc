@@ -39,6 +39,12 @@ decrease_volume=Volume Down,Volume Down,Decrease Volume
 increase_volume=Volume Up,Volume Up,Increase Volume
 mute=Volume Mute,Volume Mute,Mute
 
+[kopete]
+ReadMessage=Ctrl+Shift+I,Ctrl+Shift+I,Read Message
+Set_Away_Back=Ctrl+Shift+W,Ctrl+Shift+W,Set Away/Back
+ShowContactList=Ctrl+Alt+T,Ctrl+Alt+T,Show/Hide Contact List
+_k_friendly_name=Kopete
+
 [krunner]
 PowerDevil=none,none,Run Command (runner "PowerDevil" only)
 Run Command=Alt+F2,Alt+F2,Run Command
