@@ -43,7 +43,7 @@ mute=Volume Mute,Volume Mute,Mute
 ReadMessage=Ctrl+Shift+I,Ctrl+Shift+I,Read Message
 Set_Away_Back=Ctrl+Shift+W,Ctrl+Shift+W,Set Away/Back
 ShowContactList=Ctrl+Alt+T,Ctrl+Alt+T,Show/Hide Contact List
-_k_friendly_name=Kopete
+_k_friendly_name=kopete
 
 [krunner]
 PowerDevil=none,none,Run Command (runner "PowerDevil" only)

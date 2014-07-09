@@ -117,7 +117,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,1209,25
+geometry=91,2,1230,25
 immutability=1
 plugin=tasks
 zvalue=1
@@ -130,7 +130,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=1304,2,218,25
+geometry=1325,2,197,25
 immutability=1
 plugin=systemtray
 zvalue=0
