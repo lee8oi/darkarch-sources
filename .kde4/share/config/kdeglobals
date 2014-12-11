@@ -92,6 +92,7 @@ ForegroundPositive=128,255,128
 ForegroundVisited=192,128,255
 
 [General]
+BrowserApplication=google-chrome.desktop
 ColorScheme=Hellhawks DarkArch
 shadeSortColumn=true
 

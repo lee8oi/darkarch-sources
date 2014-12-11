@@ -2,6 +2,7 @@
 Default Identity=630940538
 
 [Identity #0]
+Default Domain=archiso
 Dictionary=English (United States of America)
 Disable Fcc=false
 Identity=Unnamed

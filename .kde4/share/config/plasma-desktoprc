@@ -2,6 +2,10 @@
 Height 768=714
 Width 1024=650
 
+[KPropertiesDialog]
+Height 813=365
+Width 1600=387
+
 [PlasmaViews][1]
 panelVisibility=0
 

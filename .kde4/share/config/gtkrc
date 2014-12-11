@@ -1,4 +1,4 @@
-# created by KDE, Wed Jul 9 19:29:29 2014
+# created by KDE, Thu Dec 11 18:36:30 2014
 #
 # If you do not want KDE to override your GTK settings, select
 # Appearance -> Colors in the System Settings and disable the checkbox
@@ -48,6 +48,7 @@ widget "gtk-tooltips" style "ToolTip"
 style "MenuItem"
 {
   bg[PRELIGHT] = { 0.000, 0.192, 0.431 }
+  fg[PRELIGHT] = { 1.000, 1.000, 1.000 }
 }
 
 class "*MenuItem" style "MenuItem"

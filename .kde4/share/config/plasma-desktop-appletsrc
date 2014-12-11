@@ -13,11 +13,13 @@ assistant-qt4=
 avahi-discover=
 bssh=
 bvnc=
+ca.desrt.dconf-editor=2014-12-11
 dconf-editor=
 designer-qt4=
 elinks=
 filezilla=
 firefox=
+google-chrome=2014-12-11
 gparted=
 guake=
 guake-prefs=
@@ -40,6 +42,7 @@ kde4-konsole=
 kde4-konversation=
 kde4-kopete=
 kde4-krandrtray=
+kde4-ksnapshot=2014-12-11
 kde4-ksysguard=
 kde4-kwrite=
 kde4-okular=
@@ -74,38 +77,35 @@ zvalue=0
 [Containments][1][ActionPlugins]
 RightButton;NoModifier=contextmenu
 
-[Containments][1][Applets][11]
-geometry=29,2,25,25
+[Containments][1][Applets][18]
+geometry=62,2,25,25
 immutability=1
 plugin=icon
-zvalue=0
+zvalue=13
 
-[Containments][1][Applets][11][Configuration]
-Url=file:///usr/share/applications/firefox.desktop
-
-[Containments][1][Applets][11][LayoutInformation]
-Order=1
+[Containments][1][Applets][18][Configuration]
+Url=file:///usr/share/applications/google-chrome.desktop
 
 [Containments][1][Applets][2]
 geometry=0,2,25,25
 immutability=1
 plugin=launcher
-zvalue=4
+zvalue=14
 
 [Containments][1][Applets][2][LayoutInformation]
 Order=0
 
 [Containments][1][Applets][3]
-geometry=58,2,25,25
+geometry=29,2,25,25
 immutability=1
 plugin=org.kde.showActivityManager
-zvalue=2
+zvalue=10
 
 [Containments][1][Applets][3][LayoutInformation]
 Order=2
 
 [Containments][1][Applets][4]
-geometry=87,2,0,25
+geometry=58,2,0,25
 immutability=1
 plugin=pager
 zvalue=0
@@ -117,10 +117,10 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,1230,25
+geometry=91,2,1258,25
 immutability=1
 plugin=tasks
-zvalue=1
+zvalue=12
 
 [Containments][1][Applets][5][Configuration][Launchers]
 Items=preferred://filemanager?wmClass=%20
@@ -130,7 +130,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=1325,2,197,25
+geometry=1353,2,169,25
 immutability=1
 plugin=systemtray
 zvalue=0
