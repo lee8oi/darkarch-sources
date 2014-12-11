@@ -49,6 +49,9 @@ kde4-okular=
 kde4-systemsettings=
 linguist-qt4=
 liteide=
+octopi=2014-12-11
+octopi-notifier=2014-12-11
+octopi-repoeditor=2014-12-11
 pavucontrol=
 qdbusviewer-qt4=
 qv4l2=
@@ -78,7 +81,7 @@ zvalue=0
 RightButton;NoModifier=contextmenu
 
 [Containments][1][Applets][18]
-geometry=62,2,25,25
+geometry=29,2,25,25
 immutability=1
 plugin=icon
 zvalue=13
@@ -96,7 +99,7 @@ zvalue=14
 Order=0
 
 [Containments][1][Applets][3]
-geometry=29,2,25,25
+geometry=58,2,25,25
 immutability=1
 plugin=org.kde.showActivityManager
 zvalue=10
@@ -105,7 +108,7 @@ zvalue=10
 Order=2
 
 [Containments][1][Applets][4]
-geometry=58,2,0,25
+geometry=87,2,0,25
 immutability=1
 plugin=pager
 zvalue=0
@@ -117,7 +120,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,1258,25
+geometry=91,2,1230,25
 immutability=1
 plugin=tasks
 zvalue=12
@@ -130,7 +133,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=1353,2,169,25
+geometry=1325,2,197,25
 immutability=1
 plugin=systemtray
 zvalue=0
