@@ -124,7 +124,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,1224,25
+geometry=91,2,1231,25
 immutability=1
 plugin=tasks
 zvalue=12
@@ -137,7 +137,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=1319,2,197,25
+geometry=1326,2,190,25
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -152,7 +152,7 @@ plugin=org.kde.notifications
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][10][PopupApplet]
-DialogHeight=253
+DialogHeight=107
 DialogWidth=342
 
 [Containments][1][Applets][6][Configuration][Applets][8]

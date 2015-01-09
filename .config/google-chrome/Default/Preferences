@@ -1,6 +1,18 @@
 {
    "browser": {
+      "clear_data": {
+         "content_licenses": true,
+         "form_data": true,
+         "hosted_apps_data": true,
+         "passwords": true,
+         "time_period": 4
+      },
+      "clear_lso_data_enabled": true,
       "custom_chrome_frame": true,
+      "last_clear_browsing_data_time": "13065305317025284",
+      "last_known_google_url": "https://www.google.com/",
+      "last_prompted_google_url": "https://www.google.com/",
+      "pepper_flash_settings_enabled": true,
       "window_placement": {
          "bottom": 779,
          "left": 10,
@@ -15,16 +27,22 @@
    },
    "countryid_at_install": 21843,
    "default_apps_install_state": 3,
+   "download": {
+      "directory_upgrade": true
+   },
    "enhanced_bookmarks_enabled": 0,
    "extensions": {
       "alerts": {
          "initialized": true
       },
       "autoupdate": {
-         "next_check": "13065321351813892"
+         "next_check": "13065305801298183"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "commands": {
+
       },
       "last_chrome_version": "39.0.2171.95",
       "settings": {
@@ -262,6 +280,123 @@
             "was_installed_by_default": true,
             "was_installed_by_oem": false
          },
+         "bepbmhgboaologfdajaanbcjmnhjmhfn": {
+            "ack_external": true,
+            "active_permissions": {
+               "api": [ "audioCapture", "hotwordPrivate", "management", "power", "tabs", "webConnectable" ],
+               "explicit_host": [ "*://*.google.co.uk/*", "*://*.google.com/*", "*://*.google.de/*", "*://*.google.fr/*", "*://*.google.ru/*" ],
+               "manifest_permissions": [  ]
+            },
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 137,
+            "disable_reasons": 1,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13065305328958798",
+            "lastpingday": "13065263998490244",
+            "location": 10,
+            "manifest": {
+               "background": {
+                  "page": "background.html"
+               },
+               "description": "This extension allows you to say ‘Ok Google’ and start speaking your search.",
+               "externally_connectable": {
+                  "ids": [ "dnhpdliibojhegemfjheidglijccjfmc" ],
+                  "matches": [ "*://*.google.com/*", "*://*.google.ru/*", "*://*.google.co.uk/*", "*://*.google.fr/*", "*://*.google.de/*", "chrome://newtab/" ]
+               },
+               "icons": {
+                  "128": "images/icon-128.png",
+                  "16": "images/icon-16.png",
+                  "48": "images/icon-48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXIZX6oiu1YU4WTZBC5FCFw08u8fPtm75p6l9IzYaCCOjJh47sg1M5eatyBuVVvC2ahku3PzgquBZQZcRkr6kd9sa8jHUBeTQsvPv8yFicYlAqdguFtEK2kbXN2Ff5i61kIe79I6hZKlTJ6KsxiAcOPQpV1uIgJFyrFxTyC1u+WwIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "31",
+               "name": "Google Voice Search Hotword (Beta)",
+               "options_page": "options.html",
+               "permissions": [ "*://*.google.com/*", "*://*.google.ru/*", "*://*.google.co.uk/*", "*://*.google.fr/*", "*://*.google.de/*", "audioCapture", "hotwordPrivate", "management", "power", "tabs" ],
+               "platforms": [ {
+                  "lang": "de",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_de/"
+               }, {
+                  "lang": "de",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_de/"
+               }, {
+                  "lang": "de",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_de/"
+               }, {
+                  "lang": "en-GB",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_en-gb/"
+               }, {
+                  "lang": "en-GB",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_en-gb/"
+               }, {
+                  "lang": "en-GB",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_en-gb/"
+               }, {
+                  "lang": "fr",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_fr/"
+               }, {
+                  "lang": "fr",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_fr/"
+               }, {
+                  "lang": "fr",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_fr/"
+               }, {
+                  "lang": "ru",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_ru/"
+               }, {
+                  "lang": "ru",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_ru/"
+               }, {
+                  "lang": "ru",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_ru/"
+               }, {
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_/"
+               }, {
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_/"
+               }, {
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_/"
+               } ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "0.1.1.5023",
+               "web_accessible_resources": [ "audio/1_short_Open_16_16.wav" ]
+            },
+            "path": "bepbmhgboaologfdajaanbcjmnhjmhfn/0.1.1.5023_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 0,
+            "was_installed_by_default": true,
+            "was_installed_by_oem": false
+         },
          "blpcfgokakmgnkcojhhkbfbldkacnbeo": {
             "ack_external": true,
             "active_permissions": {
@@ -324,6 +459,85 @@
             "was_installed_by_default": true,
             "was_installed_by_oem": false
          },
+         "bmanlajnpdncmhfkiccmbgeocgbncfln": {
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13065305258433548",
+            "lastpingday": "13065263998490244",
+            "location": 1,
+            "manifest": {
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "Smart. Simple. Beautiful Theme.",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZu1Azqyr45W7PAAHQtI9312V+B5YcjY7UEMdt5MLpw2jlyZb5Z7Z/B+CTNvxj01hfX13RoQRElmOuoAIjwXp86ZKrhsuTs/K2bT9ccmOY8iBKIr4gdW6aRPDQkxmKcnc2ad80i8CIIxfNLjRaKk2wUkDo+lyWq1Gxdunkx0AzLQIDAQAB",
+               "manifest_version": 2,
+               "name": "Slinky Elegant",
+               "theme": {
+                  "colors": {
+                     "bookmark_text": [ 190, 190, 190 ],
+                     "frame": [ 27, 27, 27 ],
+                     "ntp_background": [ 5, 5, 5 ],
+                     "ntp_link": [ 210, 213, 213 ],
+                     "ntp_section": [ 35, 35, 35 ],
+                     "ntp_section_link": [ 210, 213, 213 ],
+                     "ntp_section_text": [ 210, 213, 213 ],
+                     "ntp_text": [ 210, 213, 213 ],
+                     "tab_background_text": [ 210, 210, 210 ],
+                     "tab_text": [ 255, 255, 255 ],
+                     "toolbar": [ 30, 30, 30 ]
+                  },
+                  "images": {
+                     "theme_button_background": "images/theme_button_background.png",
+                     "theme_frame": "images/Frame.png",
+                     "theme_ntp_background": "images/theme_ntp_background.png",
+                     "theme_tab_background": "images/theme_tab_background.png",
+                     "theme_toolbar": "images/theme_toolbar.png"
+                  },
+                  "properties": {
+                     "ntp_background_alignment": "bottom\ncenter",
+                     "ntp_background_repeat": "no-repeat",
+                     "ntp_logo_alternate": 1
+                  },
+                  "tints": {
+                     "background_tab": [ -1, 0.5, 0.75 ],
+                     "buttons": [ 0, 0, 1 ],
+                     "frame_inactive": [ -1, -1, 0.75 ],
+                     "frame_incognito": [ -1, 0.2, 0.35 ],
+                     "frame_incognito_inactive": [ 1, 1, 1 ]
+                  }
+               },
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "20.0"
+            },
+            "path": "bmanlajnpdncmhfkiccmbgeocgbncfln/20.0_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
          "coobgpohoikkiipiblmjeljniedjpjpf": {
             "ack_external": true,
             "active_permissions": {
@@ -383,6 +597,53 @@
             },
             "state": 1,
             "was_installed_by_default": true,
+            "was_installed_by_oem": false
+         },
+         "dnhpdliibojhegemfjheidglijccjfmc": {
+            "active_permissions": {
+               "api": [ "hotwordPrivate", "tabs", "webConnectable" ],
+               "explicit_host": [ "*://*.google.co.uk/*", "*://*.google.com/*", "*://*.google.de/*", "*://*.google.fr/*", "*://*.google.ru/*", "chrome://newtab/*" ],
+               "manifest_permissions": [  ]
+            },
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13065305327756341",
+            "location": 5,
+            "manifest": {
+               "background": {
+                  "persistent": false,
+                  "scripts": [ "manager.js" ]
+               },
+               "externally_connectable": {
+                  "matches": [ "*://*.google.com/*", "*://*.google.ru/*", "*://*.google.co.uk/*", "*://*.google.fr/*", "*://*.google.de/*", "chrome://newtab/" ]
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDagiQy1VGkO2CHJSjVh7eU5GtuBuOlg2/cTZt7203AcevqpcDd+65S2/yd9KAELYcU6pK8nHVGYBMI6s0u+0RgXfIJ0eFOlTlgfAQWHvg8ovHtJlFJd1COrOkbntD9+s9Jobr3ldmow87aZF1bVHUY4khVP56cZe6adlVw2wK31QIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "32",
+               "name": "hotword helper",
+               "permissions": [ "*://*.google.com/*", "*://*.google.ru/*", "*://*.google.co.uk/*", "*://*.google.fr/*", "*://*.google.de/*", "chrome://newtab/", "hotwordPrivate", "tabs" ],
+               "version": "0.0.2.0"
+            },
+            "path": "/opt/google/chrome/resources/hotword_helper",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
             "was_installed_by_oem": false
          },
          "eemcgdkfndhakfknompkggombfjjjeno": {
@@ -1159,7 +1420,14 @@
             "was_installed_by_default": true,
             "was_installed_by_oem": false
          }
+      },
+      "theme": {
+         "id": "bmanlajnpdncmhfkiccmbgeocgbncfln",
+         "pack": "/home/arch/.config/google-chrome/Default/Extensions/bmanlajnpdncmhfkiccmbgeocgbncfln/20.0_0/Cached Theme.pak"
       }
+   },
+   "hotword": {
+      "previous_language": "en-US"
    },
    "intl": {
       "accept_languages": "en-US,en"
@@ -1168,7 +1436,7 @@
       "client_id": "v+IEDKttmxCbs3B5TYBDkg=="
    },
    "media": {
-      "device_id_salt": "IEbhd6ANpPPaID5dJTMZLg=="
+      "device_id_salt": "/hh5/HCjJ1S3NmgI9hr+UQ=="
    },
    "net": {
       "http_server_properties": {
@@ -1218,78 +1486,6 @@
                "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
-               "settings": {
-                  "4": 100
-               },
-               "supports_spdy": true
-            },
-            "developer.android.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100
-               },
-               "supports_spdy": true
-            },
-            "fonts.googleapis.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100
-               },
-               "supports_spdy": true
-            },
-            "fonts.gstatic.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100
-               },
-               "supports_spdy": true
-            },
-            "i.ytimg.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100
-               },
-               "supports_spdy": true
-            },
-            "oauth.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100
-               },
-               "supports_spdy": true
-            },
-            "s.ytimg.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100
-               },
-               "supports_spdy": true
-            },
-            "ssl.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "probability": 0.02,
@@ -1310,13 +1506,6 @@
                   "4": 100
                },
                "supports_spdy": true
-            },
-            "tools.google.com:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               }
             },
             "www.google.com:443": {
                "alternate_protocol": {
@@ -1339,18 +1528,12 @@
                   "4": 100
                },
                "supports_spdy": true
-            },
-            "www.youtube.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               }
             }
          },
          "version": 3
       }
    },
+   "pinned_tabs": [  ],
    "plugins": {
       "plugins_list": [  ],
       "removed_old_component_pepper_flash_settings": true
@@ -1393,8 +1576,11 @@
                "ahfgeienlihckogmohjhadlkjgocpleb": "468545B139231085CDE4507B9DF5FC7FDD275DF118325EEC6B12D67F2600DB06",
                "aohghmighlieiainnegkcijnfilokake": "32A49B92A2E5F3EA89ED919B44C7710A434057FE272F4F78E743C779B6A9B810",
                "apdfllckaahabafndbhieahigkjlhalf": "424445F34129B5AA75FF8D0BD93000501A437B5BBD9A400D892B8E031334F59D",
+               "bepbmhgboaologfdajaanbcjmnhjmhfn": "3BA8CD99461C75446A82DFC0396C4624BE103036DA0FB08B76DB9D8A1569D1F9",
                "blpcfgokakmgnkcojhhkbfbldkacnbeo": "4680CC2F40C1910CBC3C221B88216102F9F1FC78759B7E8C31E32251BC10C4BF",
+               "bmanlajnpdncmhfkiccmbgeocgbncfln": "E6DC47C8F0AB21D1866568F9EF77962FE140462F24C8653F4E0DAE229BBC9327",
                "coobgpohoikkiipiblmjeljniedjpjpf": "57B906FD1C2C3CB91A9FCDD3B19AFB3F2C163F140AFA68582BB348959530B595",
+               "dnhpdliibojhegemfjheidglijccjfmc": "E8B9F1AAF6572433344293E99FD73D98297D2263EF0DF667FD76830ED3792589",
                "eemcgdkfndhakfknompkggombfjjjeno": "6325308673785AEE6657768ADF7E3F9688E71D98E745DBF870891A0AB5608868",
                "ennkphjdgehloodpbhlhldgbnhmacadg": "EDB5B09A97C92BC10F4ADA167CAA09E4F7931E32F1C5D9C7BED339097B48EA12",
                "felcaaldnbdncclmgdcncolpebgiejap": "329463E25871E91D4A00E99F7B792E58CBDF4FBD5C0FC0749A107B5CDEE992C1",
@@ -1416,7 +1602,7 @@
          },
          "homepage": "B2A199504AEACAAD5C3A7BB4A96D9C3A9536D7A29672EB4DA3B9552B8D39C49C",
          "homepage_is_newtabpage": "306C67E79E036278678ED45B3C668C4421665A206FC4B97F053015981C8BAAE2",
-         "pinned_tabs": "33059F0A9D5AD996AA6A3DDBFC05B6B58E67DA878AEB3497F593EAE6D19EAC66",
+         "pinned_tabs": "14F8B2B035A86C0AEA5637DFD2AA7F5BDEADD0AAFF13141260E56C9477047715",
          "prefs": {
             "preference_reset_time": "7B22235E8A603BE387D81441C8C88F0C4E591567147FA05BE235C96189AC4490"
          },
@@ -1442,15 +1628,21 @@
       "mode": "system",
       "server": ""
    },
+   "savefile": {
+      "default_directory": "/home/arch/Downloads"
+   },
    "session": {
       "restore_on_startup_migrated": true,
       "startup_urls_migration_time": "13065304618462255"
    },
    "sync_promo": {
-      "startup_count": 1
+      "startup_count": 2
    },
    "translate_blocked_languages": [ "en" ],
    "translate_whitelists": {
 
+   },
+   "zerosuggest": {
+      "cachedresults": ""
    }
 }
