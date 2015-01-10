@@ -69,7 +69,7 @@ activity=
 activityId=
 desktop=-1
 formfactor=2
-geometry=0,-33,1594,27
+geometry=0,-33,1600,27
 immutability=1
 lastDesktop=-1
 lastScreen=0
@@ -124,7 +124,7 @@ hideWhenSingleDesktop=true
 Order=3
 
 [Containments][1][Applets][5]
-geometry=91,2,1231,25
+geometry=91,2,1230,25
 immutability=1
 plugin=tasks
 zvalue=12
@@ -137,7 +137,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=4
 
 [Containments][1][Applets][6]
-geometry=1326,2,190,25
+geometry=1325,2,197,25
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -171,7 +171,7 @@ SystemTray-Klipper-6=Ctrl+Alt+V
 Order=5
 
 [Containments][1][Applets][7]
-geometry=1520,2,50,25
+geometry=1526,2,50,25
 immutability=1
 plugin=digital-clock
 zvalue=0
@@ -180,8 +180,8 @@ zvalue=0
 Order=6
 
 [Containments][1][Configuration]
-maximumSize=1594,27
-minimumSize=1594,27
+maximumSize=1600,27
+minimumSize=1600,27
 
 [Containments][17]
 ActionPluginsSource=Global
@@ -189,7 +189,7 @@ activity=Default
 activityId=786e687d-ad63-412b-8b5f-82a521f0f98c
 desktop=-1
 formfactor=0
-geometry=0,0,1594,806
+geometry=0,0,1600,813
 immutability=1
 lastDesktop=-1
 lastScreen=0
