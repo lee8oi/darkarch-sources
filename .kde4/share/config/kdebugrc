@@ -76,6 +76,9 @@ InfoOutput=4
 [kio (delegateanimationhandler)]
 InfoOutput=4
 
+[kio_baloosearch]
+InfoOutput=4
+
 [kio_trash]
 InfoOutput=4
 
@@ -86,6 +89,9 @@ InfoOutput=4
 InfoOutput=2
 
 [knotify]
+InfoOutput=4
+
+[konversation]
 InfoOutput=4
 
 [kopete]

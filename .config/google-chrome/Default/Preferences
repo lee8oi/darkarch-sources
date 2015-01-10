@@ -20,8 +20,8 @@
    "countryid_at_install": 21843,
    "default_apps_install_state": 3,
    "dns_prefetching": {
-      "host_referral_list": [ 2, [ "https://accounts.google.com/", [ "https://accounts.youtube.com/", 0.8529914037622123, "https://apis.google.com/", 1.2924112178215337, "https://fonts.gstatic.com/", 1.1632647974712516, "https://oauth.googleusercontent.com/", 1.2924112178215337, "https://ssl.gstatic.com/", 2.2539227874787833 ] ], [ "https://apis.google.com/", [ "https://apis.google.com/", 2.33015861274392, "https://fonts.gstatic.com/", 1.7880338633659603 ] ], [ "https://chrome.google.com/", [ "https://chrome.google.com/", 5.738732888671998, "https://clients1.google.com/", 2.2086570657060003, "https://fonts.googleapis.com/", 2.2086570657060003, "https://i.ytimg.com/", 2.529573049612, "https://lh3.googleusercontent.com/", 25.95643987474999, "https://lh4.googleusercontent.com/", 22.42636405178399, "https://lh5.googleusercontent.com/", 20.821784132253992, "https://lh6.googleusercontent.com/", 24.67277593912599, "https://ssl.google-analytics.com/", 7.985144776013998, "https://www.google.com/", 3.8132369852359993 ] ], [ "https://fonts.googleapis.com/", [ "https://fonts.gstatic.com/", 8.390698704765997 ] ], [ "https://s.ytimg.com/", [ "https://s.ytimg.com/", 3.1902134496119996 ] ], [ "https://wiki.archlinux.org/", [ "https://wiki.archlinux.org/", 7.01540282653716 ] ], [ "https://www.google.com/", [ "https://accounts.google.com/", 0.33849712426949036, "https://apis.google.com/", 1.7350311209818503, "https://developer.android.com/", 0.33849712426949036, "https://fonts.googleapis.com/", 0.33849712426949036, "https://ssl.google-analytics.com/", 0.5740149389069376, "https://ssl.gstatic.com/", 1.5177742665521077, "https://www.google.com/", 10.631478587477089, "https://www.gstatic.com/", 1.028477677069509, "https://www.youtube.com/", 0.33849712426949036 ] ], [ "https://www.youtube.com/", [ "https://i.ytimg.com/", 1.7880338633659603, "https://s.ytimg.com/", 2.87228336212188, "https://www.google.com/", 1.7880338633659603 ] ] ],
-      "startup_list": [ 1, "https://accounts.google.com/", "https://clients2.google.com/", "https://clients2.googleusercontent.com/", "https://developer.android.com/", "https://fonts.googleapis.com/", "https://ssl.google-analytics.com/", "https://ssl.gstatic.com/", "https://wiki.archlinux.org/", "https://www.google.com/", "https://www.gstatic.com/" ]
+      "host_referral_list": [ 2, [ "https://accounts.google.com/", [ "https://accounts.youtube.com/", 0.4630415467989952, "https://apis.google.com/", 0.7015781012105987, "https://fonts.gstatic.com/", 0.8288839569140855, "https://oauth.googleusercontent.com/", 0.7015781012105987, "https://ssl.gstatic.com/", 2.114875459136826 ] ], [ "https://apis.google.com/", [ "https://apis.google.com/", 2.0422942301321636, "https://fonts.gstatic.com/", 1.2772748859186118 ] ], [ "https://chrome.google.com/", [ "https://chrome.google.com/", 5.416620915711458, "https://clients1.google.com/", 2.084686339270529, "https://fonts.googleapis.com/", 2.084686339270529, "https://i.ytimg.com/", 2.387589482583341, "https://lh3.googleusercontent.com/", 24.4995189444186, "https://lh4.googleusercontent.com/", 21.167584367977675, "https://lh5.googleusercontent.com/", 19.653068651413612, "https://lh6.googleusercontent.com/", 23.287906371167356, "https://ssl.google-analytics.com/", 7.536942918901142, "https://www.google.com/", 3.5992020558345876 ] ], [ "https://fonts.googleapis.com/", [ "https://fonts.gstatic.com/", 13.780858980150409 ] ], [ "https://s.ytimg.com/", [ "https://s.ytimg.com/", 4.313620862083733 ] ], [ "https://wiki.archlinux.org/", [ "https://wiki.archlinux.org/", 7.7635056699619795 ] ], [ "https://www.google.com/", [ "https://accounts.google.com/", 0.6812978445993686, "https://apis.google.com/", 2.8818570561175934, "https://developer.android.com/", 0.6812978445993686, "https://fonts.googleapis.com/", 0.6812978445993686, "https://ssl.google-analytics.com/", 1.3202557452592278, "https://ssl.gstatic.com/", 1.1661576506302886, "https://www.google.com/", 11.960878993502408, "https://www.gstatic.com/", 0.9649833541380157, "https://www.youtube.com/", 0.6812978445993686 ] ], [ "https://www.youtube.com/", [ "https://i.ytimg.com/", 1.2772748859186118, "https://s.ytimg.com/", 2.8073135743457156, "https://www.google.com/", 1.2772748859186118 ] ] ],
+      "startup_list": [ 1, "https://accounts.google.com/", "https://accounts.youtube.com/", "https://developer.android.com/", "https://fonts.googleapis.com/", "https://ssl.google-analytics.com/", "https://ssl.gstatic.com/", "https://wiki.archlinux.org/", "https://www.google.com/", "https://www.gstatic.com/", "https://www.youtube.com/" ]
    },
    "download": {
       "directory_upgrade": true
@@ -32,7 +32,7 @@
          "initialized": true
       },
       "autoupdate": {
-         "next_check": "13065336666506969"
+         "next_check": "13065387024662973"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1518,11 +1518,6 @@
                "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
                "settings": {
                   "4": 100
                },
@@ -1597,6 +1592,11 @@
                "supports_spdy": true
             },
             "oauth.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100
                },

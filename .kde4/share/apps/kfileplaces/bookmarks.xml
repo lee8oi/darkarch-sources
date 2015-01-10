@@ -176,7 +176,7 @@
     <bookmark:icon name="media-optical-data"/>
    </metadata>
   </info>
-  <title>ARCH_201407</title>
+  <title>ARCH_201501</title>
  </separator>
  <separator href="file:///">
   <info>
@@ -189,9 +189,9 @@
     <bookmark:icon name="drive-harddisk"/>
    </metadata>
   </info>
-  <title>7.1 GiB Hard Drive</title>
+  <title>32.0 GiB Hard Drive</title>
  </separator>
- <separator href="file:///run/archiso/sfs/root-image">
+ <separator href="file:///run/archiso/sfs/airootfs">
   <info>
    <metadata owner="http://www.kde.org">
     <UDI>/org/freedesktop/UDisks2/block_devices/loop0</UDI>
@@ -203,19 +203,6 @@
    </metadata>
   </info>
   <title>Loop Device</title>
- </separator>
- <separator>
-  <info>
-   <metadata owner="http://www.kde.org">
-    <UDI>/org/freedesktop/UDisks2/block_devices/sda1</UDI>
-    <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
-   </metadata>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="drive-harddisk"/>
-   </metadata>
-  </info>
-  <title>40.0 GiB Hard Drive</title>
  </separator>
  <separator>
   <info>
@@ -242,5 +229,18 @@
    </metadata>
   </info>
   <title>Loop Device</title>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sda1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-harddisk"/>
+   </metadata>
+  </info>
+  <title>40.0 GiB Hard Drive</title>
  </separator>
 </xbel>
